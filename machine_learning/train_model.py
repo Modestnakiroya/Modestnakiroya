@@ -23,7 +23,7 @@ BATCH_SIZE = 32
 EPOCHS = 20
 NUM_CLASSES = 2 
 ANIMAL_CLASSES = 3
-DATASET_DIR = 'machine_learning'
+DATASET_DIR = '.'
 CROP_MODEL_PATH = 'crop_model.keras'  
 ANIMAL_MODEL_PATH = 'animal_model.keras'
 
